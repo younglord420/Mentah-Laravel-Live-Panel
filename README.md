@@ -25,6 +25,14 @@ Opsional:
 - **Cloudflare Tunnel** — HTTPS untuk domain tanpa buka port 443
 - **API keys** — ipapi.is, proxycheck.io, AbuseIPDB (Settings → Keamanan)
 
+### Instalasi di aaPanel
+
+Lihat **[INSTALL_AAPANEL.md](INSTALL_AAPANEL.md)** — panduan lengkap + script:
+
+```bash
+bash scripts/install-aapanel.sh
+```
+
 ## Instalasi
 
 ### 1. Clone repository
